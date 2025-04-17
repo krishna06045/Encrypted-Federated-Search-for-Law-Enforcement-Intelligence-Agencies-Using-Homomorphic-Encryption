@@ -24,8 +24,6 @@ Each city (like Mumbai, Delhi, Chennai) has its own encrypted database. When som
 ![image](https://github.com/user-attachments/assets/353af0c4-6ee5-4944-83cc-a8a0f32fc4ba)
 
 
-📌 *Add a screenshot of MongoDB collections here*
-
 ---
 
 ## ✅ Features (in Simple Terms)
