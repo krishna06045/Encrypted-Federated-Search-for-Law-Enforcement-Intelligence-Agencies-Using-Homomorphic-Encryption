@@ -6,7 +6,7 @@ Each city (like Mumbai, Delhi, Chennai) has its own encrypted database. When som
 
 ---
 
-## 🖥️ What You’ll See (Add Screenshots Here)
+## 🖥️ What You’ll See
 
 **Landing page**
 ![image](https://github.com/user-attachments/assets/b54476de-58e9-45c6-adad-0b0ce18d5dd2)
