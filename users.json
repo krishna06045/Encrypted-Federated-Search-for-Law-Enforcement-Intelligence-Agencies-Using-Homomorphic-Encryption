@@ -1,0 +1,18 @@
+{
+  "krish": {
+    "zkp_hash": "e0a73e330bb737ae559069101c8979bdc1e75e9d99e652b2459478d68fbf6677",
+    "role": "admin"
+  },
+  "john": {
+    "zkp_hash": "b4b597c714a8f49103da4dab0266af0ee0ae4f8575250a84855c3d76941cd422",
+    "role": "officer"
+  },
+  "alice": {
+    "zkp_hash": "4e40e8ffe0ee32fa53e139147ed559229a5930f89c2204706fc174beb36210b3",
+    "role": "analyst"
+  },
+  "bob": {
+    "zkp_hash": "8d059c3640b97180dd2ee453e20d34ab0cb0f2eccbe87d01915a8e578a202b11",
+    "role": "officer"
+  }
+}

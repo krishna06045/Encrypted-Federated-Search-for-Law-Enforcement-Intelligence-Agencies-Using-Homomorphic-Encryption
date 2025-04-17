@@ -1,0 +1,1077 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1744575898.438981,
+    "data": "Genesis Block",
+    "prev_hash": "0",
+    "hash": "3304b5409d6cb98a2b262c23b9e210e634d074450a12781136d1acfb2ac9c551"
+  },
+  {
+    "index": 1,
+    "timestamp": 1744575902.099143,
+    "data": {
+      "query": "101",
+      "timestamp": 1744575902.099143,
+      "result_count": 13,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "3304b5409d6cb98a2b262c23b9e210e634d074450a12781136d1acfb2ac9c551",
+    "hash": "047e09444508b1701d836f71d828ad80f03b80c8e586dc20d6468e6bf983793a"
+  },
+  {
+    "index": 2,
+    "timestamp": 1744575903.3919275,
+    "data": {
+      "query": "101",
+      "timestamp": 1744575903.3919275,
+      "result_count": 5,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "047e09444508b1701d836f71d828ad80f03b80c8e586dc20d6468e6bf983793a",
+    "hash": "e7b2abfa7ece0db037d64deb084f001ce715ae5e34c83865c89a43127d1a32d4"
+  },
+  {
+    "index": 3,
+    "timestamp": 1744575904.7603917,
+    "data": {
+      "query": "101",
+      "timestamp": 1744575904.7603917,
+      "result_count": 4,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "e7b2abfa7ece0db037d64deb084f001ce715ae5e34c83865c89a43127d1a32d4",
+    "hash": "cc1c1ca87cbf12b7e2ec4e142550a1f86e1a26f8c9d04b525ccc7cdc21a831bc"
+  },
+  {
+    "index": 4,
+    "timestamp": 1744576073.6200075,
+    "data": {
+      "query": "100",
+      "timestamp": 1744576073.6200075,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "cc1c1ca87cbf12b7e2ec4e142550a1f86e1a26f8c9d04b525ccc7cdc21a831bc",
+    "hash": "867e7a0e019728c981dbb307c4ffc9999874340d47005ec20e8411baab665a3e"
+  },
+  {
+    "index": 5,
+    "timestamp": 1744576074.9849927,
+    "data": {
+      "query": "100",
+      "timestamp": 1744576074.9849927,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "867e7a0e019728c981dbb307c4ffc9999874340d47005ec20e8411baab665a3e",
+    "hash": "b9002b00f217550988b7aa41b629d067350de861fb4bc36720551dcf06f58a66"
+  },
+  {
+    "index": 6,
+    "timestamp": 1744576076.2882829,
+    "data": {
+      "query": "100",
+      "timestamp": 1744576076.2882829,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "b9002b00f217550988b7aa41b629d067350de861fb4bc36720551dcf06f58a66",
+    "hash": "e50ba07f140c2af1328830acf6f843c5332e385c8cc69f1ac4886ff1d5be2f68"
+  },
+  {
+    "index": 7,
+    "timestamp": 1744576098.6698482,
+    "data": {
+      "query": "200",
+      "timestamp": 1744576098.6698482,
+      "result_count": 0,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "e50ba07f140c2af1328830acf6f843c5332e385c8cc69f1ac4886ff1d5be2f68",
+    "hash": "7d4faaef21582826bc40f30dda7f2a5f42e3a5619cbbddc3bb52227cb5fec172"
+  },
+  {
+    "index": 8,
+    "timestamp": 1744576099.9619725,
+    "data": {
+      "query": "200",
+      "timestamp": 1744576099.9619725,
+      "result_count": 0,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "7d4faaef21582826bc40f30dda7f2a5f42e3a5619cbbddc3bb52227cb5fec172",
+    "hash": "76bfe26a2b2629652a3aba43a1006b26b51a66e61eb9e866f34b1ed6d1cd9c94"
+  },
+  {
+    "index": 9,
+    "timestamp": 1744576101.0238106,
+    "data": {
+      "query": "200",
+      "timestamp": 1744576101.0238106,
+      "result_count": 0,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "76bfe26a2b2629652a3aba43a1006b26b51a66e61eb9e866f34b1ed6d1cd9c94",
+    "hash": "5dbdfb8730ea4cb5df70bb4411e6824d83970cdc48d0e9ad3860513f0e95e8ca"
+  },
+  {
+    "index": 10,
+    "timestamp": 1744886647.391964,
+    "data": {
+      "query": "100",
+      "timestamp": 1744886647.391964,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "5dbdfb8730ea4cb5df70bb4411e6824d83970cdc48d0e9ad3860513f0e95e8ca",
+    "hash": "84ace3cac6ebea155c3e71c4478405b5a0abf206266dd2c11f471e1ac847234e"
+  },
+  {
+    "index": 11,
+    "timestamp": 1744886648.728783,
+    "data": {
+      "query": "100",
+      "timestamp": 1744886648.728783,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "84ace3cac6ebea155c3e71c4478405b5a0abf206266dd2c11f471e1ac847234e",
+    "hash": "582bf0183ba2192ef48b3696b48b7009dd555e36778da4dc21c1da883b865f7a"
+  },
+  {
+    "index": 12,
+    "timestamp": 1744886650.2886415,
+    "data": {
+      "query": "100",
+      "timestamp": 1744886650.2886415,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "582bf0183ba2192ef48b3696b48b7009dd555e36778da4dc21c1da883b865f7a",
+    "hash": "b9c0d25a138e83ffdbc3a45f7247aaba913edf9be8dfb492cd56b529a36da776"
+  },
+  {
+    "index": 13,
+    "timestamp": 1744886761.6677835,
+    "data": {
+      "action": "ZKP login",
+      "user": "john",
+      "zkp_hash": "b4b597c714a8f49103da4dab0266af0ee0ae4f8575250a84855c3d76941cd422",
+      "timestamp": 1744886761.6677835
+    },
+    "prev_hash": "b9c0d25a138e83ffdbc3a45f7247aaba913edf9be8dfb492cd56b529a36da776",
+    "hash": "b161ff092f84bc881914b4eea4f294737ce8c33802baae341442422ddb3d16ab"
+  },
+  {
+    "index": 14,
+    "timestamp": 1744886767.0720115,
+    "data": {
+      "query": "100",
+      "timestamp": 1744886767.0720115,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "b161ff092f84bc881914b4eea4f294737ce8c33802baae341442422ddb3d16ab",
+    "hash": "17d6569ab3d37cbb492334cf7597b26c140539442512819a01ba0a15d4d65f70"
+  },
+  {
+    "index": 15,
+    "timestamp": 1744886768.9217336,
+    "data": {
+      "query": "100",
+      "timestamp": 1744886768.9217336,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "17d6569ab3d37cbb492334cf7597b26c140539442512819a01ba0a15d4d65f70",
+    "hash": "3596d18d2a0f9d695c7b1775f4ab7c816a96e058d0329b335b375810c4ad6c33"
+  },
+  {
+    "index": 16,
+    "timestamp": 1744886770.5490422,
+    "data": {
+      "query": "100",
+      "timestamp": 1744886770.5490422,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "3596d18d2a0f9d695c7b1775f4ab7c816a96e058d0329b335b375810c4ad6c33",
+    "hash": "20bfcbdce581bd85b20cb17653b9c69a34853742b928cc9dddf1e8aef1286b63"
+  },
+  {
+    "index": 17,
+    "timestamp": 1744886781.9456286,
+    "data": {
+      "action": "ZKP login",
+      "user": "alice",
+      "zkp_hash": "4e40e8ffe0ee32fa53e139147ed559229a5930f89c2204706fc174beb36210b3",
+      "timestamp": 1744886781.9456286
+    },
+    "prev_hash": "20bfcbdce581bd85b20cb17653b9c69a34853742b928cc9dddf1e8aef1286b63",
+    "hash": "278e2a69c100cebe41fa6b22707041aa77165f9c1773bed95855393d1926135a"
+  },
+  {
+    "index": 18,
+    "timestamp": 1744886858.1839783,
+    "data": {
+      "action": "ZKP login",
+      "user": "krish",
+      "zkp_hash": "e0a73e330bb737ae559069101c8979bdc1e75e9d99e652b2459478d68fbf6677",
+      "timestamp": 1744886858.1839783
+    },
+    "prev_hash": "278e2a69c100cebe41fa6b22707041aa77165f9c1773bed95855393d1926135a",
+    "hash": "1c387f30aff62b33c88e187e2ade68a09abb73140687162c4bdf01cec98e0ffd"
+  },
+  {
+    "index": 19,
+    "timestamp": 1744887409.1482947,
+    "data": {
+      "query": "100",
+      "timestamp": 1744887409.1482947,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "1c387f30aff62b33c88e187e2ade68a09abb73140687162c4bdf01cec98e0ffd",
+    "hash": "34f6dfa710e961dd8803a1527ac48a59e3b1c8c3d10eb74a0bae8f7dd79d2265"
+  },
+  {
+    "index": 20,
+    "timestamp": 1744887410.5202818,
+    "data": {
+      "query": "100",
+      "timestamp": 1744887410.5202818,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "34f6dfa710e961dd8803a1527ac48a59e3b1c8c3d10eb74a0bae8f7dd79d2265",
+    "hash": "f79ead511fe34759a7530d6d499d24364d4f4374e838167b8b609c9d85aff0ae"
+  },
+  {
+    "index": 21,
+    "timestamp": 1744887411.686772,
+    "data": {
+      "query": "100",
+      "timestamp": 1744887411.686772,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "f79ead511fe34759a7530d6d499d24364d4f4374e838167b8b609c9d85aff0ae",
+    "hash": "3a1db61d0d23e0772e442cfbd683a2fa8b821b77536fb33d996b5fcc04f49322"
+  },
+  {
+    "index": 22,
+    "timestamp": 1744887466.2761033,
+    "data": {
+      "query": "100",
+      "timestamp": 1744887466.2761033,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "3a1db61d0d23e0772e442cfbd683a2fa8b821b77536fb33d996b5fcc04f49322",
+    "hash": "d03594f27080f99733ee9b29bd2d0c2e9c674e4974e60f6531ba96f00dce5ba2"
+  },
+  {
+    "index": 23,
+    "timestamp": 1744887467.4209116,
+    "data": {
+      "query": "100",
+      "timestamp": 1744887467.4209116,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "d03594f27080f99733ee9b29bd2d0c2e9c674e4974e60f6531ba96f00dce5ba2",
+    "hash": "e80b8043fe5eedd5faec89ae4b9d5ff12f603c26e6db6feb39d269c848484e56"
+  },
+  {
+    "index": 24,
+    "timestamp": 1744887468.554397,
+    "data": {
+      "query": "100",
+      "timestamp": 1744887468.554397,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "e80b8043fe5eedd5faec89ae4b9d5ff12f603c26e6db6feb39d269c848484e56",
+    "hash": "9f21a732281b50c0f62ddefd4c024d77096b4d4a85234e0b40a178fd5d13bbac"
+  },
+  {
+    "index": 25,
+    "timestamp": 1744887486.782217,
+    "data": {
+      "query": "101",
+      "timestamp": 1744887486.782217,
+      "result_count": 13,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "9f21a732281b50c0f62ddefd4c024d77096b4d4a85234e0b40a178fd5d13bbac",
+    "hash": "559d4dbe96c766bd62115a9e7d9a84dd4ab4ffbeaf62e3988f57d46e312aa0dc"
+  },
+  {
+    "index": 26,
+    "timestamp": 1744887487.8372328,
+    "data": {
+      "query": "101",
+      "timestamp": 1744887487.8372328,
+      "result_count": 5,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "559d4dbe96c766bd62115a9e7d9a84dd4ab4ffbeaf62e3988f57d46e312aa0dc",
+    "hash": "8af5e5c952d426f46961a66d2656803ab763acb76373b95dc742a92d30c2c8ac"
+  },
+  {
+    "index": 27,
+    "timestamp": 1744887489.0528893,
+    "data": {
+      "query": "101",
+      "timestamp": 1744887489.0528893,
+      "result_count": 4,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "8af5e5c952d426f46961a66d2656803ab763acb76373b95dc742a92d30c2c8ac",
+    "hash": "7228f034c19a6339245e2a8a832596d455e69fd9882fddb9aa42bd3e87520ccc"
+  },
+  {
+    "index": 28,
+    "timestamp": 1744887513.890645,
+    "data": {
+      "query": "28723",
+      "timestamp": 1744887513.890645,
+      "result_count": 0,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "7228f034c19a6339245e2a8a832596d455e69fd9882fddb9aa42bd3e87520ccc",
+    "hash": "ae92fd1b5eec68c3670083daca1c1a04f1a88d9b7e6f4aadbdf32dfd2a08a503"
+  },
+  {
+    "index": 29,
+    "timestamp": 1744887514.9838524,
+    "data": {
+      "query": "28723",
+      "timestamp": 1744887514.9828546,
+      "result_count": 0,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "ae92fd1b5eec68c3670083daca1c1a04f1a88d9b7e6f4aadbdf32dfd2a08a503",
+    "hash": "ad194ca36663ffef2c0e585f68515162b1d6c6a1bbb1d2d83e422627fc20809d"
+  },
+  {
+    "index": 30,
+    "timestamp": 1744887516.0459492,
+    "data": {
+      "query": "28723",
+      "timestamp": 1744887516.0459492,
+      "result_count": 1,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "ad194ca36663ffef2c0e585f68515162b1d6c6a1bbb1d2d83e422627fc20809d",
+    "hash": "100c1f54efa95dd864cbe3f844bcbf8e0253cdfdb36da1990903a383220659a4"
+  },
+  {
+    "index": 31,
+    "timestamp": 1744887526.8368974,
+    "data": {
+      "query": "41",
+      "timestamp": 1744887526.8368974,
+      "result_count": 1,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "100c1f54efa95dd864cbe3f844bcbf8e0253cdfdb36da1990903a383220659a4",
+    "hash": "200aaf41bc49c2878608d6a77b7510ca32654ee93045cec0336fdf21790f2d4e"
+  },
+  {
+    "index": 32,
+    "timestamp": 1744887527.9210606,
+    "data": {
+      "query": "41",
+      "timestamp": 1744887527.9210606,
+      "result_count": 1,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "200aaf41bc49c2878608d6a77b7510ca32654ee93045cec0336fdf21790f2d4e",
+    "hash": "a7f09667d1ba0f5eb2452b798094c4508b04896afafa63d4ebbb154d7a1b9ada"
+  },
+  {
+    "index": 33,
+    "timestamp": 1744887528.9585972,
+    "data": {
+      "query": "41",
+      "timestamp": 1744887528.9585972,
+      "result_count": 3,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "a7f09667d1ba0f5eb2452b798094c4508b04896afafa63d4ebbb154d7a1b9ada",
+    "hash": "8912d10a1f4cdb64cfc8840e981064a7b5bcbe342a630a784733717c71677af8"
+  },
+  {
+    "index": 34,
+    "timestamp": 1744887543.5939643,
+    "data": {
+      "query": "14",
+      "timestamp": 1744887543.5939643,
+      "result_count": 8,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "8912d10a1f4cdb64cfc8840e981064a7b5bcbe342a630a784733717c71677af8",
+    "hash": "00b18363889ecf399e301e8192cf1c89f22bc13f6fdf721eeb5242571f6acbb7"
+  },
+  {
+    "index": 35,
+    "timestamp": 1744887544.7005138,
+    "data": {
+      "query": "14",
+      "timestamp": 1744887544.7005138,
+      "result_count": 5,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "00b18363889ecf399e301e8192cf1c89f22bc13f6fdf721eeb5242571f6acbb7",
+    "hash": "f14b969403865ab67416fed0195a9891b7cd058f72a798cc25155a2a727dd5f4"
+  },
+  {
+    "index": 36,
+    "timestamp": 1744887545.7730625,
+    "data": {
+      "query": "14",
+      "timestamp": 1744887545.7730625,
+      "result_count": 10,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "f14b969403865ab67416fed0195a9891b7cd058f72a798cc25155a2a727dd5f4",
+    "hash": "dbce9e95ba5be00f8a32406277630f9e93d63edf79f9960a8f2f34625fe2d550"
+  },
+  {
+    "index": 37,
+    "timestamp": 1744887894.0984845,
+    "data": {
+      "action": "ZKP login",
+      "user": "john",
+      "zkp_hash": "b4b597c714a8f49103da4dab0266af0ee0ae4f8575250a84855c3d76941cd422",
+      "timestamp": 1744887894.0984845
+    },
+    "prev_hash": "dbce9e95ba5be00f8a32406277630f9e93d63edf79f9960a8f2f34625fe2d550",
+    "hash": "4d45e0fb735fcc306c9bcdc88ec9ae54f0c5f98eb3ed436445ea20c13144b696"
+  },
+  {
+    "index": 38,
+    "timestamp": 1744887899.866197,
+    "data": {
+      "query": "200",
+      "timestamp": 1744887899.866197,
+      "result_count": 0,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "4d45e0fb735fcc306c9bcdc88ec9ae54f0c5f98eb3ed436445ea20c13144b696",
+    "hash": "0c5add3642c363120601a505935252d6044bf880088d4f4e338a5f748d71e175"
+  },
+  {
+    "index": 39,
+    "timestamp": 1744887900.9279451,
+    "data": {
+      "query": "200",
+      "timestamp": 1744887900.9279451,
+      "result_count": 0,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "0c5add3642c363120601a505935252d6044bf880088d4f4e338a5f748d71e175",
+    "hash": "ffe25d372884019862b78706c430173a14cc9d4ba603248b3da8c776b26911da"
+  },
+  {
+    "index": 40,
+    "timestamp": 1744887901.9302871,
+    "data": {
+      "query": "200",
+      "timestamp": 1744887901.9302871,
+      "result_count": 0,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "ffe25d372884019862b78706c430173a14cc9d4ba603248b3da8c776b26911da",
+    "hash": "d789886719d403563863a4f92262680f2dc149295cc0b623c0785923f2b96843"
+  },
+  {
+    "index": 41,
+    "timestamp": 1744887909.746131,
+    "data": {
+      "action": "ZKP login",
+      "user": "john",
+      "zkp_hash": "b4b597c714a8f49103da4dab0266af0ee0ae4f8575250a84855c3d76941cd422",
+      "timestamp": 1744887909.746131
+    },
+    "prev_hash": "d789886719d403563863a4f92262680f2dc149295cc0b623c0785923f2b96843",
+    "hash": "d1bea8230dbb00a2cd8e94cae38d9b0b1ead192aa76c2f48e67c4b104d995e43"
+  },
+  {
+    "index": 42,
+    "timestamp": 1744887914.6256535,
+    "data": {
+      "query": "100",
+      "timestamp": 1744887914.6256535,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "d1bea8230dbb00a2cd8e94cae38d9b0b1ead192aa76c2f48e67c4b104d995e43",
+    "hash": "2ff95769293800fce6e2785b447839ab5c2207c1c34b2457c485eeba55d221f9"
+  },
+  {
+    "index": 43,
+    "timestamp": 1744887915.7420018,
+    "data": {
+      "query": "100",
+      "timestamp": 1744887915.7420018,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "2ff95769293800fce6e2785b447839ab5c2207c1c34b2457c485eeba55d221f9",
+    "hash": "0e4f1cd17ea683252109c742da644fd7fcf5a3f1197d9b28e35fdb686b119c70"
+  },
+  {
+    "index": 44,
+    "timestamp": 1744887916.7933016,
+    "data": {
+      "query": "100",
+      "timestamp": 1744887916.7933016,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "0e4f1cd17ea683252109c742da644fd7fcf5a3f1197d9b28e35fdb686b119c70",
+    "hash": "235e6a0f3e23b8ee64b628345dbe8de1e9d70ae24872c77ed6aa6c713b61a206"
+  },
+  {
+    "index": 45,
+    "timestamp": 1744899366.7279446,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899366.7279446,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "235e6a0f3e23b8ee64b628345dbe8de1e9d70ae24872c77ed6aa6c713b61a206",
+    "hash": "1f11c1e1ee2f0a217b1929f1ba82a086223c1014d937bc06f9575b8bc51df456"
+  },
+  {
+    "index": 46,
+    "timestamp": 1744899368.4897532,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899368.4897532,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "1f11c1e1ee2f0a217b1929f1ba82a086223c1014d937bc06f9575b8bc51df456",
+    "hash": "8e124f988056597270d0558e548b67a68c50c991b394103356ec51123ac4f183"
+  },
+  {
+    "index": 47,
+    "timestamp": 1744899369.9099295,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899369.9099295,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "8e124f988056597270d0558e548b67a68c50c991b394103356ec51123ac4f183",
+    "hash": "de4ebe229c735f22625f4e6a7cfbf7741619c6daa2aafec8240d7977df763e42"
+  },
+  {
+    "index": 48,
+    "timestamp": 1744899642.5987148,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899642.5987148,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "de4ebe229c735f22625f4e6a7cfbf7741619c6daa2aafec8240d7977df763e42",
+    "hash": "94bb6a05775abee298214be0913bd7a5ee71759c440e524544f15ef71e8505a7"
+  },
+  {
+    "index": 49,
+    "timestamp": 1744899644.4274628,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899644.4274628,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "94bb6a05775abee298214be0913bd7a5ee71759c440e524544f15ef71e8505a7",
+    "hash": "bc6658461d3937f77a3d299c929ccbda7ec28850b891d3e288a9de0bc0a7311c"
+  },
+  {
+    "index": 50,
+    "timestamp": 1744899646.3365142,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899646.3365142,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "bc6658461d3937f77a3d299c929ccbda7ec28850b891d3e288a9de0bc0a7311c",
+    "hash": "7db86feeb5d50690ca60fc7f8fe0661e34bed03e431a5443a2535ef5b1f68ece"
+  },
+  {
+    "index": 51,
+    "timestamp": 1744899652.0326877,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899652.0326877,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "7db86feeb5d50690ca60fc7f8fe0661e34bed03e431a5443a2535ef5b1f68ece",
+    "hash": "b0a9861394d90bf2aaf4f10f21b2ad32730dc49069e786d9be65bb482715e87a"
+  },
+  {
+    "index": 52,
+    "timestamp": 1744899654.0547512,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899654.0547512,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "b0a9861394d90bf2aaf4f10f21b2ad32730dc49069e786d9be65bb482715e87a",
+    "hash": "c53f0ef30588a2ad050d1dd47a13e8a5c41b9358f568848e38cb7fbe31aa906f"
+  },
+  {
+    "index": 53,
+    "timestamp": 1744899657.4631834,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899657.4631834,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "c53f0ef30588a2ad050d1dd47a13e8a5c41b9358f568848e38cb7fbe31aa906f",
+    "hash": "333ac181d94abedacf04b2fa057b09db223db42e93043974402fb580d35d9210"
+  },
+  {
+    "index": 54,
+    "timestamp": 1744899659.297087,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899659.297087,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "333ac181d94abedacf04b2fa057b09db223db42e93043974402fb580d35d9210",
+    "hash": "c3103808d9d9b38dfac9be0beda200635e748b61d2acac900486838ac57aa4f1"
+  },
+  {
+    "index": 55,
+    "timestamp": 1744899661.8189554,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899661.8189554,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "c3103808d9d9b38dfac9be0beda200635e748b61d2acac900486838ac57aa4f1",
+    "hash": "c892817396cb65dbbd0b76ff49ae0d0237466b120bc34a4df8f7d6f136eb7e7c"
+  },
+  {
+    "index": 56,
+    "timestamp": 1744899681.4327488,
+    "data": {
+      "query": "100",
+      "timestamp": 1744899681.4327488,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "c892817396cb65dbbd0b76ff49ae0d0237466b120bc34a4df8f7d6f136eb7e7c",
+    "hash": "99806c165bffd46f8399dfa3f0c067bbf398178b50a2de4ba70808abb28b861e"
+  },
+  {
+    "index": 57,
+    "timestamp": 1744899685.1970172,
+    "data": {
+      "query": "41",
+      "timestamp": 1744899685.1970172,
+      "result_count": 1,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "99806c165bffd46f8399dfa3f0c067bbf398178b50a2de4ba70808abb28b861e",
+    "hash": "71218430e622b296f2e1967e68529508897347b7ed4e3ed070a0ba2644a4de62"
+  },
+  {
+    "index": 58,
+    "timestamp": 1744899688.5009887,
+    "data": {
+      "query": "41",
+      "timestamp": 1744899688.5009887,
+      "result_count": 1,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "71218430e622b296f2e1967e68529508897347b7ed4e3ed070a0ba2644a4de62",
+    "hash": "dd083249b65cb6adbe9c21e1c4e05b0edee9eb4c958c38617517a47a1ec5d5a6"
+  },
+  {
+    "index": 59,
+    "timestamp": 1744899691.339661,
+    "data": {
+      "query": "41",
+      "timestamp": 1744899691.339661,
+      "result_count": 3,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "dd083249b65cb6adbe9c21e1c4e05b0edee9eb4c958c38617517a47a1ec5d5a6",
+    "hash": "7fff0ea70ab4e6d753192a87bb936eb3b53fde833fcde8d6b8c6b47631f4de34"
+  },
+  {
+    "index": 60,
+    "timestamp": 1744899696.9756465,
+    "data": {
+      "query": "41",
+      "timestamp": 1744899696.9756465,
+      "result_count": 1,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "7fff0ea70ab4e6d753192a87bb936eb3b53fde833fcde8d6b8c6b47631f4de34",
+    "hash": "a5dddaeb25a30b8f70a7b27f3ecfca77820d932a79fee8baa3ff220f10e02797"
+  },
+  {
+    "index": 61,
+    "timestamp": 1744899698.6503596,
+    "data": {
+      "query": "41",
+      "timestamp": 1744899698.6503596,
+      "result_count": 1,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "a5dddaeb25a30b8f70a7b27f3ecfca77820d932a79fee8baa3ff220f10e02797",
+    "hash": "582a32557630776a2e532c5aafc37324a9fa94e68bed2298ac55e0e109ea55dc"
+  },
+  {
+    "index": 62,
+    "timestamp": 1744899700.8878617,
+    "data": {
+      "query": "41",
+      "timestamp": 1744899700.8878617,
+      "result_count": 3,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "582a32557630776a2e532c5aafc37324a9fa94e68bed2298ac55e0e109ea55dc",
+    "hash": "cc753ceefb088a7b8599637ee1820096415b39f8296b98590ec519bcc1630cbe"
+  },
+  {
+    "index": 63,
+    "timestamp": 1744899704.0279267,
+    "data": {
+      "query": "41",
+      "timestamp": 1744899704.0279267,
+      "result_count": 1,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "cc753ceefb088a7b8599637ee1820096415b39f8296b98590ec519bcc1630cbe",
+    "hash": "02aaa5986fd684345641aafe3a9df0d1bd1a81396e895cd70205ad65f9db63a9"
+  },
+  {
+    "index": 64,
+    "timestamp": 1744899705.84084,
+    "data": {
+      "query": "41",
+      "timestamp": 1744899705.84084,
+      "result_count": 1,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "02aaa5986fd684345641aafe3a9df0d1bd1a81396e895cd70205ad65f9db63a9",
+    "hash": "bb602a9e3a2c6412c735ae17b9649547ebe367118f8f7efd57b26a7d6ddcd3c5"
+  },
+  {
+    "index": 65,
+    "timestamp": 1744899707.6833622,
+    "data": {
+      "query": "41",
+      "timestamp": 1744899707.6833622,
+      "result_count": 3,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "bb602a9e3a2c6412c735ae17b9649547ebe367118f8f7efd57b26a7d6ddcd3c5",
+    "hash": "cf9abc1ee7d16b58baf77c416ec9df12febc685824046a356d5f7257edca1c16"
+  },
+  {
+    "index": 66,
+    "timestamp": 1744900041.6046672,
+    "data": {
+      "action": "ZKP login",
+      "user": "john",
+      "zkp_hash": "b4b597c714a8f49103da4dab0266af0ee0ae4f8575250a84855c3d76941cd422",
+      "timestamp": 1744900041.6046672
+    },
+    "prev_hash": "cf9abc1ee7d16b58baf77c416ec9df12febc685824046a356d5f7257edca1c16",
+    "hash": "0c1fe2ad82310751af6fc290c001fc1f5f90ddb698f4fd1ac9643c589e3e2cee"
+  },
+  {
+    "index": 67,
+    "timestamp": 1744900217.225362,
+    "data": {
+      "action": "ZKP login",
+      "user": "john",
+      "zkp_hash": "b4b597c714a8f49103da4dab0266af0ee0ae4f8575250a84855c3d76941cd422",
+      "timestamp": 1744900217.225362
+    },
+    "prev_hash": "0c1fe2ad82310751af6fc290c001fc1f5f90ddb698f4fd1ac9643c589e3e2cee",
+    "hash": "8937bb2d2b86d99ed994ad3570f00af53aa4929f2c064e32c5cee7f9536186ca"
+  },
+  {
+    "index": 68,
+    "timestamp": 1744900262.5599854,
+    "data": {
+      "action": "ZKP login",
+      "user": "john",
+      "zkp_hash": "b4b597c714a8f49103da4dab0266af0ee0ae4f8575250a84855c3d76941cd422",
+      "timestamp": 1744900262.5599854
+    },
+    "prev_hash": "8937bb2d2b86d99ed994ad3570f00af53aa4929f2c064e32c5cee7f9536186ca",
+    "hash": "c440db70bb7c1d1e47a0fedf6b05bfb7fc30a83f268332b3f9db2324548fdb37"
+  },
+  {
+    "index": 69,
+    "timestamp": 1744900283.4095666,
+    "data": {
+      "query": "20",
+      "timestamp": 1744900283.4095666,
+      "result_count": 0,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "c440db70bb7c1d1e47a0fedf6b05bfb7fc30a83f268332b3f9db2324548fdb37",
+    "hash": "f3601dbf86d4a6c9dfac42e1c8af2183c3ed7d1ce2ff8390485235466ed00a30"
+  },
+  {
+    "index": 70,
+    "timestamp": 1744900285.515937,
+    "data": {
+      "query": "20",
+      "timestamp": 1744900285.515937,
+      "result_count": 0,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "f3601dbf86d4a6c9dfac42e1c8af2183c3ed7d1ce2ff8390485235466ed00a30",
+    "hash": "eedff9a07dbe030a8b1d1391726b643c80c2421ba05ebb674b3c676a8b6dd60f"
+  },
+  {
+    "index": 71,
+    "timestamp": 1744900287.7513833,
+    "data": {
+      "query": "20",
+      "timestamp": 1744900287.7513833,
+      "result_count": 0,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "eedff9a07dbe030a8b1d1391726b643c80c2421ba05ebb674b3c676a8b6dd60f",
+    "hash": "f1f6f5d8efb94e188459aaabd052a54fe5b766bc7ebe9f8d708b433d51cf1bdc"
+  },
+  {
+    "index": 72,
+    "timestamp": 1744900295.2380686,
+    "data": {
+      "query": "100",
+      "timestamp": 1744900295.2380686,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "f1f6f5d8efb94e188459aaabd052a54fe5b766bc7ebe9f8d708b433d51cf1bdc",
+    "hash": "0301eee73330c58acc6c8d95301177890065fe8b1f6574317759f58593dcb397"
+  },
+  {
+    "index": 73,
+    "timestamp": 1744900296.800174,
+    "data": {
+      "query": "100",
+      "timestamp": 1744900296.800174,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "0301eee73330c58acc6c8d95301177890065fe8b1f6574317759f58593dcb397",
+    "hash": "636e6dec7210bf9327e31301639218c86ed089769510e89bc38b471888b1c24b"
+  },
+  {
+    "index": 74,
+    "timestamp": 1744900298.317652,
+    "data": {
+      "query": "100",
+      "timestamp": 1744900298.317652,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "636e6dec7210bf9327e31301639218c86ed089769510e89bc38b471888b1c24b",
+    "hash": "6d69c9293344ff1d06458967bb1a9deaa2a88da37b071c7be573649909f3ae73"
+  },
+  {
+    "index": 75,
+    "timestamp": 1744900316.4864256,
+    "data": {
+      "action": "ZKP login",
+      "user": "alice",
+      "zkp_hash": "4e40e8ffe0ee32fa53e139147ed559229a5930f89c2204706fc174beb36210b3",
+      "timestamp": 1744900316.4864256
+    },
+    "prev_hash": "6d69c9293344ff1d06458967bb1a9deaa2a88da37b071c7be573649909f3ae73",
+    "hash": "0fa13594761ea35c2935a63638a2f6cdbc476e4e01dd8dfcbae646654565d878"
+  },
+  {
+    "index": 76,
+    "timestamp": 1744900344.2042143,
+    "data": {
+      "action": "ZKP login",
+      "user": "krish",
+      "zkp_hash": "e0a73e330bb737ae559069101c8979bdc1e75e9d99e652b2459478d68fbf6677",
+      "timestamp": 1744900344.2042143
+    },
+    "prev_hash": "0fa13594761ea35c2935a63638a2f6cdbc476e4e01dd8dfcbae646654565d878",
+    "hash": "ee3b24306beea272d9f55e4ce797d647e5731ab5c2298643f926dd33e42fe96b"
+  },
+  {
+    "index": 77,
+    "timestamp": 1744900401.4546292,
+    "data": {
+      "action": "ZKP login",
+      "user": "john",
+      "zkp_hash": "b4b597c714a8f49103da4dab0266af0ee0ae4f8575250a84855c3d76941cd422",
+      "timestamp": 1744900401.4546292
+    },
+    "prev_hash": "ee3b24306beea272d9f55e4ce797d647e5731ab5c2298643f926dd33e42fe96b",
+    "hash": "71c06b199bdeb6d18e82d79b18046b8945bac2969c673d641e65b823de61b164"
+  },
+  {
+    "index": 78,
+    "timestamp": 1744900510.8881752,
+    "data": {
+      "query": "100",
+      "timestamp": 1744900510.8881752,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "71c06b199bdeb6d18e82d79b18046b8945bac2969c673d641e65b823de61b164",
+    "hash": "a38cb857b59cab14931013acb3db5df70af2f6e4a5ece4fb884a1de516d6139b"
+  },
+  {
+    "index": 79,
+    "timestamp": 1744900512.701268,
+    "data": {
+      "query": "100",
+      "timestamp": 1744900512.701268,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "a38cb857b59cab14931013acb3db5df70af2f6e4a5ece4fb884a1de516d6139b",
+    "hash": "ed341cbc73b12c203611306f3a31f4a20f2d80bd35e01aeeaf23d9e225edd9ad"
+  },
+  {
+    "index": 80,
+    "timestamp": 1744900514.6301963,
+    "data": {
+      "query": "100",
+      "timestamp": 1744900514.6301963,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "ed341cbc73b12c203611306f3a31f4a20f2d80bd35e01aeeaf23d9e225edd9ad",
+    "hash": "a7b1c7da489265b7a97a533a2bb61264d9b30e265249c6847e67e6966f7230b4"
+  },
+  {
+    "index": 81,
+    "timestamp": 1744900535.7184649,
+    "data": {
+      "query": "41",
+      "timestamp": 1744900535.7184649,
+      "result_count": 1,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "a7b1c7da489265b7a97a533a2bb61264d9b30e265249c6847e67e6966f7230b4",
+    "hash": "024da2df4937e7fd6830d9986f37aa8e35f4cb1263d1b4febfbe89434a85d720"
+  },
+  {
+    "index": 82,
+    "timestamp": 1744900537.0474555,
+    "data": {
+      "query": "41",
+      "timestamp": 1744900537.0474555,
+      "result_count": 1,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "024da2df4937e7fd6830d9986f37aa8e35f4cb1263d1b4febfbe89434a85d720",
+    "hash": "3dc2113c2565f0cb711fa49c79f1fd0d3ac5ec8995836ae3cb05968bbb06cbad"
+  },
+  {
+    "index": 83,
+    "timestamp": 1744900538.7722483,
+    "data": {
+      "query": "41",
+      "timestamp": 1744900538.7722483,
+      "result_count": 3,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "3dc2113c2565f0cb711fa49c79f1fd0d3ac5ec8995836ae3cb05968bbb06cbad",
+    "hash": "b2991c5d2ff25e4aa2a372ab2f3c38babd535c8b2b3723bc3c7f0d7d0dcbbcfe"
+  },
+  {
+    "index": 84,
+    "timestamp": 1744900588.7439888,
+    "data": {
+      "action": "ZKP login",
+      "user": "alice",
+      "zkp_hash": "4e40e8ffe0ee32fa53e139147ed559229a5930f89c2204706fc174beb36210b3",
+      "timestamp": 1744900588.7439888
+    },
+    "prev_hash": "b2991c5d2ff25e4aa2a372ab2f3c38babd535c8b2b3723bc3c7f0d7d0dcbbcfe",
+    "hash": "50d431e8b1d63efb3ec3e954d798f9a652895dd9d2fc4a022e3d85dc59bfb72b"
+  },
+  {
+    "index": 85,
+    "timestamp": 1744900810.009334,
+    "data": {
+      "action": "ZKP login",
+      "user": "krish",
+      "zkp_hash": "e0a73e330bb737ae559069101c8979bdc1e75e9d99e652b2459478d68fbf6677",
+      "timestamp": 1744900810.009334
+    },
+    "prev_hash": "50d431e8b1d63efb3ec3e954d798f9a652895dd9d2fc4a022e3d85dc59bfb72b",
+    "hash": "d69441b5d02e4b865bf45c7c796d74cf93a95ac651e97026fe9fd28757751d70"
+  },
+  {
+    "index": 86,
+    "timestamp": 1744900831.4473217,
+    "data": {
+      "action": "ZKP login",
+      "user": "john",
+      "zkp_hash": "b4b597c714a8f49103da4dab0266af0ee0ae4f8575250a84855c3d76941cd422",
+      "timestamp": 1744900831.4473217
+    },
+    "prev_hash": "d69441b5d02e4b865bf45c7c796d74cf93a95ac651e97026fe9fd28757751d70",
+    "hash": "e2d0c9df8966ecbd7b4a1185e0e653dcca0c53eef2aecccb057a223d6e9559cf"
+  },
+  {
+    "index": 87,
+    "timestamp": 1744900843.551056,
+    "data": {
+      "query": "100",
+      "timestamp": 1744900843.551056,
+      "result_count": 9,
+      "collection": "crimes_mumbai"
+    },
+    "prev_hash": "e2d0c9df8966ecbd7b4a1185e0e653dcca0c53eef2aecccb057a223d6e9559cf",
+    "hash": "014a430eb49f52525ed4d0d1e2695dcb4d745f14f4e2e532fb064cf29eb3f773"
+  },
+  {
+    "index": 88,
+    "timestamp": 1744900846.8910725,
+    "data": {
+      "query": "100",
+      "timestamp": 1744900846.8910725,
+      "result_count": 9,
+      "collection": "crimes_delhi"
+    },
+    "prev_hash": "014a430eb49f52525ed4d0d1e2695dcb4d745f14f4e2e532fb064cf29eb3f773",
+    "hash": "2375feaf2aac78ec76132aebc904efd1fb8f09d315bd66d187ca8b3beb4ffee7"
+  },
+  {
+    "index": 89,
+    "timestamp": 1744900850.2070146,
+    "data": {
+      "query": "100",
+      "timestamp": 1744900850.2070146,
+      "result_count": 7,
+      "collection": "crimes_chennai"
+    },
+    "prev_hash": "2375feaf2aac78ec76132aebc904efd1fb8f09d315bd66d187ca8b3beb4ffee7",
+    "hash": "5ebf4feca23d67041a98e1af87bb63f7f23769ae6ecf929517422b4d2a1e4647"
+  }
+]
